@@ -1,0 +1,33 @@
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Attendance.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Dashboard.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Events.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Fees.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Loading.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Login.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.MainMenu.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Properties.Resources.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Students.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School_Management_System.Teachers.resources
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.csproj.GenerateResource.cache
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.AssemblyInfoInputs.cache
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.AssemblyInfo.cs
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.csproj.CoreCompileInputs.cache
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\School Management System.exe
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\School Management System.deps.json
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\School Management System.runtimeconfig.json
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\School Management System.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\School Management System.pdb
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\School Management System\School Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.csproj.AssemblyReference.cache
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School M.9425A2E0.Up2Date
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.dll
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\refint\School Management System.dll
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.pdb
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\School Management System.genruntimeconfig.cache
+G:\Studies\School Management System\School Management System\obj\Debug\net8.0-windows\ref\School Management System.dll
